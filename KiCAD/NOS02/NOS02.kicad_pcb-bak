@@ -10,6 +10,13 @@
   )
 
   (page A4)
+  (title_block
+    (title NOS02)
+    (date 2021-07-18)
+    (rev "Ver. 1.0")
+    (company "PNPN Manufactory")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
